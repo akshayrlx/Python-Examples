@@ -40,3 +40,31 @@ for i in list4:
 print(list5)
 
 6#
+list1=[1]
+if len(list1)>0:
+     print("the list is not empty")
+else:
+    print("the list is empty")
+
+7#
+list10=["apple","ball","cat","dog","elephant"]
+n=4
+for i in list10:
+    if len(i)>n:
+       print(i)
+
+8#
+list7=["red","green","white","black","pink","yellow"]
+
+for i in list7:
+   
+   
+   
+
+
+
+
+
+    
+
+     
