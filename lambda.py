@@ -51,3 +51,12 @@ x.sort(key=lambda x:x[2])
 print(x)
 
 
+def cube(n):
+    return n**3
+print(list(map(cube,[1,2,3,4])))
+
+def sqare(a):
+    return a**2
+print(tuple(map(sqare,[4,5,6,7])))
+
+print(list(map(lambda n:n.isupper(),"akshay123")))
